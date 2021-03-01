@@ -1,0 +1,2 @@
+LICENSES
+ybot is from Mixamo
